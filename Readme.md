@@ -11,7 +11,7 @@ This project consists of a backend API and a frontend interface to display and i
 - Node.js
 - Express
 - MongoDB (with Mongoose)
-- Axios
+- React.js
 
 ### Features
 
